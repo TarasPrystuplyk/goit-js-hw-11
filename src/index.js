@@ -1,6 +1,6 @@
 import './sass/main.scss';
 import PhotosApiService from './js/searchphotoQwery';
-import hitsTpl from './templates/hits.hbs'
+import hitsTpl from './templates/photosgallery.hbs'
 
 import Notiflix from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
